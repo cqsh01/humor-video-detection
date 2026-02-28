@@ -1,0 +1,142 @@
+{
+  "video_path": "data\\WITHOUTOOPS_slow.avi",
+  "video_id": "WITHOUTOOPS_slow",
+  "model": "qwen3.5-plus",
+  "n_frames": 8,
+  "frames": [
+    {
+      "path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_00_00-00.jpg",
+      "frame_index": 0,
+      "time_sec": 0.0,
+      "timecode": "00:00"
+    },
+    {
+      "path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_01_00-04.jpg",
+      "frame_index": 121,
+      "time_sec": 4.033333333333333,
+      "timecode": "00:04"
+    },
+    {
+      "path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_02_00-08.jpg",
+      "frame_index": 242,
+      "time_sec": 8.066666666666666,
+      "timecode": "00:08"
+    },
+    {
+      "path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_03_00-12.jpg",
+      "frame_index": 363,
+      "time_sec": 12.1,
+      "timecode": "00:12"
+    },
+    {
+      "path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_04_00-16.jpg",
+      "frame_index": 484,
+      "time_sec": 16.133333333333333,
+      "timecode": "00:16"
+    },
+    {
+      "path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_05_00-20.jpg",
+      "frame_index": 605,
+      "time_sec": 20.166666666666668,
+      "timecode": "00:20"
+    },
+    {
+      "path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_06_00-24.jpg",
+      "frame_index": 726,
+      "time_sec": 24.2,
+      "timecode": "00:24"
+    },
+    {
+      "path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_07_00-28.jpg",
+      "frame_index": 847,
+      "time_sec": 28.233333333333334,
+      "timecode": "00:28"
+    }
+  ],
+  "frame_results": [
+    {
+      "frame_path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_00_00-00.jpg",
+      "frame_index": 0,
+      "time_sec": 0.0,
+      "timecode": "00:00",
+      "caption": "A skier wearing a blue jacket stands on a snowy slope with a forest in the background, while two other individuals are visible in the bottom left corner.",
+      "count_raw": "3",
+      "count": 3,
+      "persons_desc": "Person on the far left wearing a dark jacket and grey hat, standing.\nPerson at the bottom left wearing a blue jacket, sitting in the snow.\nPerson on the right slope wearing a blue jacket and black pants, standing on skis."
+    },
+    {
+      "frame_path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_01_00-04.jpg",
+      "frame_index": 121,
+      "time_sec": 4.033333333333333,
+      "timecode": "00:04",
+      "caption": "A skier in a blue jacket descends a snowy slope while two other people are positioned further down the hill near a forest of evergreen trees.",
+      "count_raw": "3",
+      "count": 3,
+      "persons_desc": "A person wearing a blue jacket and black pants is skiing down a hill on the right side.\nA person wearing a black jacket and grey hat is standing on the bottom left.\nA person wearing a blue jacket and red hat is sitting in the snow on the bottom left."
+    },
+    {
+      "frame_path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_02_00-08.jpg",
+      "frame_index": 242,
+      "time_sec": 8.066666666666666,
+      "timecode": "00:08",
+      "caption": "A person in a blue jacket skis down a snowy slope on the right while two others, one standing and one seated, are positioned in the snow near a shovel on the left.",
+      "count_raw": "3",
+      "count": 3,
+      "persons_desc": "A person in a dark jacket and grey hat standing on the left side.\nA person in a blue jacket sitting in the snow next to the standing person on the left.\nA person in a blue jacket and black pants skiing on the right side."
+    },
+    {
+      "frame_path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_03_00-12.jpg",
+      "frame_index": 363,
+      "time_sec": 12.1,
+      "timecode": "00:12",
+      "caption": "A skier in a blue jacket is captured mid-fall with skis elevated in the air on a snowy slope, near two shovels stuck upright in the snow and two other individuals.",
+      "count_raw": "4",
+      "count": 4,
+      "persons_desc": "Person on the far left wearing a red jacket and dark pants, sitting in the snow.\nPerson in the center wearing a blue jacket and dark pants with skis attached, falling backwards horizontally into the snow.\nPerson on the right wearing a black jacket with a yellow stripe and a grey hat, standing upright.\nPerson on the far right wearing a blue jacket, sitting or kneeling low in the snow next to the standing person."
+    },
+    {
+      "frame_path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_04_00-16.jpg",
+      "frame_index": 484,
+      "time_sec": 16.133333333333333,
+      "timecode": "00:16",
+      "caption": "A person lies face-down in the snow near two crossed shovels while another individual kneels nearby on a snowy slope.",
+      "count_raw": "3",
+      "count": 3,
+      "persons_desc": ""
+    },
+    {
+      "frame_path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_05_00-20.jpg",
+      "frame_index": 605,
+      "time_sec": 20.166666666666668,
+      "timecode": "00:20",
+      "caption": "A person in a blue jacket lies face-down in the snow with red skis near their feet next to an upright shovel, while another individual stands nearby on the snowy hill.",
+      "count_raw": "4",
+      "count": 4,
+      "persons_desc": "Person in red jacket sitting on the left\nPerson in blue jacket lying on stomach in the center\nPerson in dark jacket kneeling on the right\nPerson in grey clothing sitting on the right"
+    },
+    {
+      "frame_path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_06_00-24.jpg",
+      "frame_index": 726,
+      "time_sec": 24.2,
+      "timecode": "00:24",
+      "caption": "A skier in a blue jacket lies face-down in the snow with detached skis and poles sticking out of the ground nearby, while another person stands watching to the right.",
+      "count_raw": "5",
+      "count": 5,
+      "persons_desc": "Person wearing red jacket, sitting, left background\nPerson wearing blue jacket, sitting, left background\nPerson wearing pink jacket, sitting, left background\nPerson wearing blue jacket and dark pants, lying on stomach, center\nPerson wearing dark blue jacket, standing or kneeling, right\nPerson wearing grey jacket, sitting or kneeling, right"
+    },
+    {
+      "frame_path": "outputs\\frames\\WITHOUTOOPS_slow\\frame_07_00-28.jpg",
+      "frame_index": 847,
+      "time_sec": 28.233333333333334,
+      "timecode": "00:28",
+      "caption": "A person in a blue jacket bends over in the snow near two upright shovels while two children stand nearby on a snowy slope with trees in the background.",
+      "count_raw": "5",
+      "count": 5,
+      "persons_desc": "Person in a red jacket sitting on the far left.\nPerson in purple clothing sitting next to them on the left.\nPerson in a blue jacket bending over in the center.\nPerson in a black jacket and orange pants standing on the right holding a shovel.\nPerson in a blue jacket sitting in the snow on the far right."
+    }
+  ],
+  "summary": {
+    "person_count_majority": 3,
+    "humor_result": "Yes, the video contains humor.\n\n**Humorous Moment:** 00:12 - 00:16\n\n**Explanation:**\nThe video features a classic slapstick \"fail\" moment where a skier unexpectedly crashes. The humor arises from the sudden transition from controlled skiing to a chaotic fall and the subsequent defeated posture in the snow. This is reinforced by the ironic video title \"WITHOUTOOPS_slow,\" as the video clearly captures a significant \"oops\" moment.\n\n**Evidence:**\n*   At **00:08**, the scene is established with normal activity, describing a person \"skiing on the right side\" while others are stationary, setting up a baseline of normalcy.\n*   At **00:12**, the humor peaks as the caption describes the skier \"captured mid-fall with skis elevated in the air\" and \"falling backwards horizontally,\" indicating a sudden loss of control.\n*   At **00:16**, the aftermath confirms the failure, with the caption stating the person \"lies face-down in the snow,\" emphasizing the clumsiness of the crash."
+  }
+}
